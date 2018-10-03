@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/htevfik/automate/issues"
   },
-  "homepage": "https://github.com/htevfik/automate#readme"
+  "homepage": "https://github.com/htevfik/automate#readme",
+  "dependencies": {
+    "iohook": "^0.2.0",
+    "robotjs": "^0.5.1"
+  }
 }
