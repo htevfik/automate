@@ -1,0 +1,23 @@
+{
+  "name": "automate",
+  "version": "1.0.0",
+  "description": "tatsumaki slot command automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/htevfik/automate.git"
+  },
+  "keywords": [
+    "tatsumaki",
+    "slot"
+  ],
+  "author": "htevfik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/htevfik/automate/issues"
+  },
+  "homepage": "https://github.com/htevfik/automate#readme"
+}
